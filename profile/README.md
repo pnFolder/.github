@@ -1,6 +1,6 @@
 <div align="center">
 
-# pnFolder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:2ea44f&height=190&section=header&text=pnFolder&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Плагины%20для%20Minecraft-серверов&descSize=22&descAlignY=62" alt="pnFolder" width="100%">
 
 **Плагины для Minecraft-серверов и общая библиотека, на которой они работают.**
 
@@ -41,3 +41,5 @@
 **https://discord.gg/rSxZAVW7uC**
 
 Нашли ошибку? Откройте issue в репозитории нужного плагина и приложите лог запуска и версию сервера.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:5865F2&height=90&section=footer" alt="" width="100%">
