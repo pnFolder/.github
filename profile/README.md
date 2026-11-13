@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,100:2ea44f&height=200&section=header&text=pnFolder&fontSize=76&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Плагины%20для%20Minecraft-серверов&descSize=22&descAlignY=62" alt="pnFolder" width="100%">
+<img src="https://raw.githubusercontent.com/pnFolder/.github/main/profile/banner.svg" alt="pnFolder" width="100%">
 
 <a href="https://discord.gg/rSxZAVW7uC"><img src="https://img.shields.io/badge/Discord-Поддержка-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://github.com/pnFolder/pnLibrary"><img src="https://img.shields.io/badge/pnLibrary-Общая_библиотека-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="pnLibrary"></a>
@@ -92,4 +92,4 @@ flowchart LR
 
 > **Нашли ошибку?** Откройте issue в репозитории нужного плагина и приложите **лог запуска** и **версию сервера**.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea44f,100:5865F2&height=90&section=footer" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/pnFolder/.github/main/profile/divider.svg" alt="" width="100%">
