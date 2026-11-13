@@ -1,95 +1,200 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pnFolder/.github/main/profile/banner.svg" alt="pnFolder" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pnFolder/.github/main/profile/banner-dark.svg">
+  <img src="https://raw.githubusercontent.com/pnFolder/.github/main/profile/banner-light.svg" alt="pnFolder" width="100%">
+</picture>
 
-<a href="https://discord.gg/rSxZAVW7uC"><img src="https://img.shields.io/badge/Discord-Поддержка-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://github.com/pnFolder/pnLibrary"><img src="https://img.shields.io/badge/pnLibrary-Общая_библиотека-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="pnLibrary"></a>
-<a href="https://papermc.io/"><img src="https://img.shields.io/badge/Paper-1.16.5+-5EFD7D?style=for-the-badge&logo=papermc&logoColor=black" alt="Paper"></a>
-<a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-Java-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
+<br>
 
-<h3>Ставишь один файл в <code>plugins</code>, настраиваешь в игре или в конфиге, обновляешь через pnLibrary.</h3>
+<a href="https://discord.gg/rSxZAVW7uC"><img src="https://img.shields.io/badge/Discord-Поддержка-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://github.com/pnFolder/pnLibrary"><img src="https://img.shields.io/badge/pnLibrary-общая_библиотека-2ea44f?style=flat-square" alt="pnLibrary"></a>
+<a href="https://papermc.io/"><img src="https://img.shields.io/badge/Paper-1.16.5+-5EFD7D?style=flat-square&logo=papermc&logoColor=black" alt="Paper"></a>
 
-<a href="#-плагины">🧩 Плагины</a> ·
-<a href="#-pnlibrary">📦 pnLibrary</a> ·
-<a href="#-быстрый-старт">🚀 Быстрый старт</a> ·
-<a href="#-поддержка-и-сообщество">💬 Поддержка</a>
+<br><br>
+
+**Ставишь один файл в `plugins`, настраиваешь в игре или в конфиге, обновляешь через pnLibrary.**
+
+<br>
+
+[Плагины](#плагины) &nbsp;·&nbsp; [pnLibrary](#pnlibrary) &nbsp;·&nbsp; [Быстрый старт](#быстрый-старт) &nbsp;·&nbsp; [Поддержка](#поддержка-и-сообщество)
 
 </div>
 
----
+## Плагины
 
-## 🧩 Плагины
+<div align="center">
 
-### 🏰 Игровой процесс и PvP
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-| | Плагин | Что делает | Платформа |
-|:-:|---|---|---|
-| ⚔️ | [**pnClans**](https://github.com/pnFolder/pnClans) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnClans?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnClans/releases) | Кланы: роли, казна, дома, склад, прокачка, PvP и клановый чат в одном меню | Paper |
-| 🎁 | [**pnCases**](https://github.com/pnFolder/pnCases) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnCases?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnCases/releases) | Кейсы с анимацией открытия, ключами и настройкой прямо в игре | Paper |
-| 👻 | [**pnSouls**](https://github.com/pnFolder/pnSouls) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnSouls?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnSouls/releases) | Души-спутники: коллекция и призыв кликом | Paper |
-| 💎 | [**pnRelics**](https://github.com/pnFolder/pnRelics) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnRelics?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnRelics/releases) | Настраиваемые руны и предметы с бонусами | Paper |
-| 🛡️ | [**pnRelog**](https://github.com/pnFolder/pnRelog) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnRelog?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnRelog/releases) | Combat-tag и защита от выхода из боя | Paper, Purpur, Folia |
+<h3>⚔️<br><a href="https://github.com/pnFolder/pnClans">pnClans</a></h3>
 
-### 💰 Экономика и обмен
+Кланы: роли, казна, дома, склад, прокачка, PvP и клановый чат в одном меню
 
-| | Плагин | Что делает | Платформа |
-|:-:|---|---|---|
-| 🛒 | [**pnMarket**](https://github.com/pnFolder/pnMarket) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnMarket?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnMarket/releases) | GUI-аукцион: несколько валют, комиссии, наборы, настраиваемый интерфейс | Paper |
-| 🤝 | [**pnTrades**](https://github.com/pnFolder/pnTrades) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnTrades?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnTrades/releases) | Безопасный обмен предметами между игроками через GUI | Paper, Purpur |
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnClans/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnClans?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
 
-### 🛠️ Сервер и модерация
+</td>
+<td width="33%" valign="top" align="center">
 
-| | Плагин | Что делает | Платформа |
-|:-:|---|---|---|
-| 🔨 | [**pnBans**](https://github.com/pnFolder/pnBans) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnBans?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnBans/releases) | Баны, муты, предупреждения, история нарушений | Paper |
-| 💬 | [**pnChat**](https://github.com/pnFolder/pnChat) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnChat?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnChat/releases) | Сообщения рядом и важные для всех, настройка поведения чата | Paper |
-| 🎲 | [**pnRtp**](https://github.com/pnFolder/pnRtp) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnRtp?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnRtp/releases) | Случайная телепортация игроков | Paper |
+<h3>🛒<br><a href="https://github.com/pnFolder/pnMarket">pnMarket</a></h3>
 
-### 🌐 Сеть: прокси
+GUI-аукцион: несколько валют, комиссии, наборы, свой интерфейс
 
-| | Плагин | Что делает | Платформа |
-|:-:|---|---|---|
-| 🔐 | [**pnAuth**](https://github.com/pnFolder/pnAuth) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnAuth?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnAuth/releases) | Авторизация: регистрация, вход, встроенный PicoLimbo | BungeeCord, Velocity |
-| 🤖 | [**pnCaptcha**](https://github.com/pnFolder/pnCaptcha) <br> [![release](https://img.shields.io/github/v/release/pnFolder/pnCaptcha?style=flat-square&label=&color=5865F2)](https://github.com/pnFolder/pnCaptcha/releases) | 3D CAPTCHA-шлюз перед входом на сервер | Velocity |
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnMarket/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnMarket?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
 
-## 📦 pnLibrary
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>🎁<br><a href="https://github.com/pnFolder/pnCases">pnCases</a></h3>
+
+Кейсы с анимацией открытия, ключами и настройкой прямо в игре
+
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnCases/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnCases?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<h3>🔨<br><a href="https://github.com/pnFolder/pnBans">pnBans</a></h3>
+
+Баны, муты, предупреждения и история нарушений
+
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnBans/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnBans?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>💬<br><a href="https://github.com/pnFolder/pnChat">pnChat</a></h3>
+
+Сообщения рядом и важные для всех, настройка поведения чата
+
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnChat/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnChat?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>🤝<br><a href="https://github.com/pnFolder/pnTrades">pnTrades</a></h3>
+
+Безопасный обмен предметами между игроками через GUI
+
+<sub>Paper · Purpur</sub><br><a href="https://github.com/pnFolder/pnTrades/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnTrades?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<h3>🎲<br><a href="https://github.com/pnFolder/pnRtp">pnRtp</a></h3>
+
+Случайная телепортация игроков
+
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnRtp/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnRtp?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>🛡️<br><a href="https://github.com/pnFolder/pnRelog">pnRelog</a></h3>
+
+Combat-tag и защита от выхода из боя
+
+<sub>Paper · Purpur · Folia</sub><br><a href="https://github.com/pnFolder/pnRelog/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnRelog?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>👻<br><a href="https://github.com/pnFolder/pnSouls">pnSouls</a></h3>
+
+Души-спутники: коллекция и призыв кликом
+
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnSouls/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnSouls?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+<h3>💎<br><a href="https://github.com/pnFolder/pnRelics">pnRelics</a></h3>
+
+Настраиваемые руны и предметы с бонусами
+
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnRelics/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnRelics?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>🔐<br><a href="https://github.com/pnFolder/pnAuth">pnAuth</a></h3>
+
+Авторизация: регистрация, вход, встроенный PicoLimbo
+
+<sub>BungeeCord · Velocity</sub><br><a href="https://github.com/pnFolder/pnAuth/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnAuth?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>🤖<br><a href="https://github.com/pnFolder/pnCaptcha">pnCaptcha</a></h3>
+
+3D CAPTCHA-шлюз перед входом на сервер
+
+<sub>Velocity</sub><br><a href="https://github.com/pnFolder/pnCaptcha/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnCaptcha?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## pnLibrary
 
 **[pnLibrary](https://github.com/pnFolder/pnLibrary)** — общая библиотека для **Bukkit, Paper, Folia, BungeeCord и Velocity**. Её ставят один раз на сервер, а все плагины используют общий рантайм: обновления, диагностику, метрики, настройки и сообщения об ошибках.
 
 ```mermaid
 flowchart LR
-    S[Сервер или прокси] --> L{{pnLibrary}}
+    S[Сервер или прокси] --> L{pnLibrary}
     L --> A[Обновления]
     L --> B[Диагностика и метрики]
     L --> C[Настройки и тексты]
     L --> D[Плагины pnFolder]
-    D --> P1[pnClans]
-    D --> P2[pnMarket]
-    D --> P3[pnCases]
-    D --> P4[и другие]
 ```
 
-## 🚀 Быстрый старт
+## Быстрый старт
 
-1. **Скачайте** нужный плагин во вкладке *Releases* его репозитория.
-2. **Положите** файл в папку `plugins` и перезапустите сервер.
-3. **Настройте** плагин в игре или в `config.yml`. Если нужна pnLibrary, плагин подскажет, как её поставить.
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-## 💬 Поддержка и сообщество
+<h3>1️⃣<br>Скачайте</h3>
+
+Нужный плагин во вкладке <b>Releases</b> его репозитория.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>2️⃣<br>Установите</h3>
+
+Положите файл в папку <code>plugins</code> и перезапустите сервер.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<h3>3️⃣<br>Настройте</h3>
+
+В игре или в <code>config.yml</code>. Если нужна pnLibrary, плагин подскажет, как её поставить.
+
+</td>
+</tr>
+</table>
+
+## Поддержка и сообщество
 
 <div align="center">
 
 <a href="https://discord.gg/rSxZAVW7uC"><img src="https://img.shields.io/badge/Присоединиться_к_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 
+🆘 помощь, если плагин сломался &nbsp;·&nbsp; 📰 новости и обновления &nbsp;·&nbsp; 💡 идеи и пожелания &nbsp;·&nbsp; 🚀 анонсы новых плагинов
+
 </div>
 
-| | |
-|:-:|---|
-| 🆘 | помощь, если плагин сломался или не запускается |
-| 📰 | новости и обновления плагинов |
-| 💡 | идеи и пожелания: что добавить или исправить |
-| 🚀 | анонсы новых плагинов |
-
 > **Нашли ошибку?** Откройте issue в репозитории нужного плагина и приложите **лог запуска** и **версию сервера**.
-
-<img src="https://raw.githubusercontent.com/pnFolder/.github/main/profile/divider.svg" alt="" width="100%">
