@@ -33,7 +33,7 @@
 
 Кланы: роли, казна, дома, склад, прокачка, PvP и клановый чат в одном меню
 
-<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnClans/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnClans?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnClans/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnClans?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -42,7 +42,7 @@
 
 GUI-аукцион: несколько валют, комиссии, наборы, свой интерфейс
 
-<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnMarket/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnMarket?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnMarket/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnMarket?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -51,7 +51,7 @@ GUI-аукцион: несколько валют, комиссии, набор�
 
 Кейсы с анимацией открытия, ключами и настройкой прямо в игре
 
-<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnCases/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnCases?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnCases/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnCases?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 </tr>
@@ -62,7 +62,7 @@ GUI-аукцион: несколько валют, комиссии, набор�
 
 Баны, муты, предупреждения и история нарушений
 
-<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnBans/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnBans?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnBans/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnBans?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -71,7 +71,7 @@ GUI-аукцион: несколько валют, комиссии, набор�
 
 Сообщения рядом и важные для всех, настройка поведения чата
 
-<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnChat/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnChat?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnChat/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnChat?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -80,7 +80,7 @@ GUI-аукцион: несколько валют, комиссии, набор�
 
 Безопасный обмен предметами между игроками через GUI
 
-<sub>Paper · Purpur</sub><br><a href="https://github.com/pnFolder/pnTrades/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnTrades?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Paper · Purpur</sub><br><a href="https://github.com/pnFolder/pnTrades/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnTrades?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 </tr>
@@ -91,7 +91,7 @@ GUI-аукцион: несколько валют, комиссии, набор�
 
 Случайная телепортация игроков
 
-<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnRtp/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnRtp?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnRtp/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnRtp?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -100,7 +100,7 @@ GUI-аукцион: несколько валют, комиссии, набор�
 
 Combat-tag и защита от выхода из боя
 
-<sub>Paper · Purpur · Folia</sub><br><a href="https://github.com/pnFolder/pnRelog/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnRelog?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Paper · Purpur · Folia</sub><br><a href="https://github.com/pnFolder/pnRelog/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnRelog?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -109,7 +109,7 @@ Combat-tag и защита от выхода из боя
 
 Души-спутники: коллекция и призыв кликом
 
-<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnSouls/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnSouls?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnSouls/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnSouls?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 </tr>
@@ -120,7 +120,7 @@ Combat-tag и защита от выхода из боя
 
 Настраиваемые руны и предметы с бонусами
 
-<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnRelics/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnRelics?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Paper</sub><br><a href="https://github.com/pnFolder/pnRelics/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnRelics?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -129,7 +129,7 @@ Combat-tag и защита от выхода из боя
 
 Авторизация: регистрация, вход, встроенный PicoLimbo
 
-<sub>BungeeCord · Velocity</sub><br><a href="https://github.com/pnFolder/pnAuth/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnAuth?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>BungeeCord · Velocity</sub><br><a href="https://github.com/pnFolder/pnAuth/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnAuth?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 <td width="33%" valign="top" align="center">
@@ -138,7 +138,7 @@ Combat-tag и защита от выхода из боя
 
 3D CAPTCHA-шлюз перед входом на сервер
 
-<sub>Velocity</sub><br><a href="https://github.com/pnFolder/pnCaptcha/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnCaptcha?style=flat-square&label=версия&color=5865F2" alt="версия"></a>
+<sub>Velocity</sub><br><a href="https://github.com/pnFolder/pnCaptcha/releases"><img src="https://img.shields.io/github/v/release/pnFolder/pnCaptcha?style=flat-square&label=release&color=5865F2" alt="release"></a>
 
 </td>
 </tr>
